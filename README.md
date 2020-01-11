@@ -1,7 +1,14 @@
 # Completed
 
 I completed the challenge using Java.
+I did not change the main method, nor did I change any of the tests. All tests pass and the sample command line in the Java README produces the desired results.
 
+```
+ryans@FOO /z/Users/ryans/git/de-hours-with-experts/java (master)
+$ java -cp target/NextBiggestNumber-1.0.jar com.labs1904.NextBiggestNumber 123
+Input: 123
+Next biggest number: 132
+```
 
 
 # de-hours-with-experts
